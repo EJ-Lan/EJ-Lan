@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EJ-Lan
 - 👀 I’m interested in Software Engineering, Web Development, and Mobile Development
-- 🌱 I’m currently learning SQL, Spring Boot
+- 🌱 I’m currently learning SQL, Spring Boot, and Microservices
 - 💞️ I’m looking to collaborate on Group Projects and contribute to open source software
 - 📫 My email is ervinjon_lanada@outlook.com and my Linkedin is www.linkedin.com/in/ej-lanada
 
