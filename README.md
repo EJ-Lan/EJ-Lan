@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ervin Jon</h1>
 <h3 align="center">A Software Engineer From Edmonton, AB</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ej-lan&label=Profile%20views&color=0e75b6&style=flat" alt="ej-lan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ej-lan" alt="ej-lan" /></a> </p>
 
 - 🔭 I’m currently working on [Bearhub](https://github.com/EJ-Lan/BearHub)
@@ -25,6 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ej-lan&show_icons=true&locale=en" alt="ej-lan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ej-lan&" alt="ej-lan" /></p>
 
 
