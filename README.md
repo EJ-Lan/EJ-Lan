@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bearhub](https://github.com/EJ-Lan/BearHub)
 
-- 🌱 I’m currently learning **Spring Boot, Microservices, and SQL**
+- 🌱 I’m currently learning **Spring Boot, Microservices, and TypeScript**
 
 - 👯 I’m looking to collaborate on **Open Source Projects and Hackathons**
 
