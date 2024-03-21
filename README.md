@@ -19,9 +19,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ej-lan&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ej-lan" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ej-lan&show_icons=true&locale=en&theme=github_dark" alt="ej-lan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ej-lan&show_icons=true&locale=en&theme=github_dark" alt="ej-lan" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ej-lan&theme=dark" alt="ej-lan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ej-lan&theme=dark" alt="ej-lan" /></p>
 
 
 
