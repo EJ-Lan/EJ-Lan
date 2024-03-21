@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cartoon-image.webp" alt="Cartoon Image of Ervin" width="500"/>
+  <img src="cartoon.webp" alt="Cartoon Image of Ervin" width="500"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Ervin</h1>
