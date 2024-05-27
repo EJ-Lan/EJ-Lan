@@ -2,7 +2,7 @@
   <img src="cartoon-image.jpg" alt="Cartoon Image of Ervin" width="1000"/>
 </div>
 
-<h1 align="center">Hi <img src="https://github.com/jaza-k/jaza-k/blob/main/wave.gif" width="30" height="30"/>, I'm Ervin</h1>
+<h1 align="center">Hi <img src="https://github.com/jaza-k/jaza-k/blob/main/wave.gif" width="30" height="30"/> I'm Ervin</h1>
 <h3 align="center">A Software Engineer From Edmonton, AB</h3>
 
 - 🔭 I’m currently working on [RealEstateAPI](https://github.com/EJ-Lan/RealEstateAPI)
