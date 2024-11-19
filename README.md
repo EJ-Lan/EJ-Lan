@@ -5,8 +5,8 @@
 <h1 align="center">Hi <img src="https://github.com/jaza-k/jaza-k/blob/main/wave.gif" width="30" height="30"/> I'm Ervin</h1>
 <h3 align="center">A Software Engineer From Edmonton, AB</h3>
 
-- 🔭 I’m currently working on [RealEstateAPI](https://github.com/EJ-Lan/RealEstateAPI)
-- 🌱 I’m currently learning **Spring Boot, Microservices, and DevOps**
+- 🔭 I’m currently working on an OpenAI API Chrome Extension Project
+- 🌱 I’m currently learning **Golang, Microservices, and DevOps**
 - 👯 I’m looking to collaborate on **Open Source Projects and Hackathons**
 - 📫 How to reach me **ervinjon_lanada@outlook.com**
 
