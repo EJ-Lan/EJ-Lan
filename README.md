@@ -5,9 +5,9 @@
 <h1 align="center">Hi <img src="https://github.com/jaza-k/jaza-k/blob/main/wave.gif" width="30" height="30"/> I'm Ervin</h1>
 <h3 align="center">A Software Engineer From Edmonton, AB</h3>
 
-- 🔭 I’m currently working on an **OpenAI API Chrome Extension Project**
-- 🌱 I’m currently learning **Golang, Microservices, and DevOps**
-- 👯 I’m looking to collaborate on **Open Source Projects and Hackathons**
+- 🔭 I’m currently working on an **AWS SDK Projects**
+- 🌱 I’m currently learning **Distirbuted Systems and Microservices**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me **ervinjon_lanada@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
