@@ -6,7 +6,7 @@
 <h3 align="center">A Software Engineer From Edmonton, AB</h3>
 
 - 🔭 I’m currently working on an **AWS SDK Project**
-- 🌱 I’m currently learning **Distirbuted Systems and Microservices**
+- 🌱 I’m currently learning **Rust, Distirbuted Systems and Microservices**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me **ervinjon_lanada@outlook.com**
 
