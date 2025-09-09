@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://github.com/jaza-k/jaza-k/blob/main/wave.gif" width="30" height="30"/> I'm Ervin</h1>
 <h3 align="center">A Software Engineer From Edmonton, AB</h3>
 
-- 🔭 I’m currently working on an **AWS SDK Project**
+- 🔭 I’m currently working on a **Interpreter for a langauge I call Cedar**
 - 🌱 I’m currently learning **Rust, Distributed Systems and Microservices**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me **ervinjon_lanada@outlook.com**
