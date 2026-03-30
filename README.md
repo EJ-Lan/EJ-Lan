@@ -5,12 +5,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ej-lan&show_icons=true&theme=catppuccin_mocha" height="150" />
-</div>
-
-<br />
-
-<div align="center">
   <sub>I love systems programming, low-level engineering, and retro computing, so I built a little 2D space invaders game from scratch.</sub>
 </div>
 
